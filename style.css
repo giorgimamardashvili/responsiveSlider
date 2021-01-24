@@ -1,0 +1,19 @@
+.container {
+  padding: 20px;
+  max-width: 800px;
+  margin: 20px auto;
+  background: lightblue;
+}
+
+.slider {
+  border: 2px solid black;
+  max-width: 80%;
+  margin: 20px auto;
+  overflow: hidden;
+}
+
+.slider-line {
+  display: flex;
+  background: orangered;
+  transition: all ease 1s;
+}
